@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-01-01-understanding-semi-continous
 excerpt: 'In this paper we study the effect of the initial state of a ternary semi-continous distillation system on its periodic orbit.'
 date: 2018-01-01
-venue: 'Computer Aided Chemical Engineering 43'
-paperurl: 'https://doi.org/10.1016/B978-0-444-64235-6.50148-0'
+venue: 'Computer Aided Chemical Engineering'
+paperurl: <a href='https://doi.org/10.1016/B978-0-444-64235-6.50148-0'>Link</a>
 ---
-<a href='https://doi.org/10.1016/B978-0-444-64235-6.50148-0'>link</a>
+<a href='https://doi.org/10.1016/B978-0-444-64235-6.50148-0'>Link</a>
 
 In this paper we study the effect of the initial state of a ternary semi-continous distillation system on its periodic orbit.
 
