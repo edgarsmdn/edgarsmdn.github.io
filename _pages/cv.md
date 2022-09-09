@@ -22,10 +22,6 @@ Research experience
   * Duties: GNNs for molecular and mixture property prediction. ML for process optimization.
   * Supervisor: Kai Sundmacher
 
-* **Research associate** --- (Nov 2019 - present)
-  * Otto-von-Guericke-University, Germany
-  * Duties: Lecturer and TA in MSc-level courses
-
 * **Research intern** --- (May 2018 - Jul 2018)
   * The University of Manchester/Imperial College London, UK
   * Duties: Coded several stochastic optimization algorithms in Python
@@ -51,6 +47,13 @@ Work experience
 * **Electricity Market Analyst** --- (Nov 2017 - Feb 2018)
   * Bravos Energia, Mexico
   * Duties: Developed a Mexican electricity tariffs model for forecasting
+
+M.Sc. Theses supervised
+======
+* **2021** Viswa Sunkavalli (now Research assistant at BAM), *Graph Neural Networks for the prediction of environmental indicators of molecules*, OVGU.
+* **2021** Manoj Mangipudi (now PhD student at KIT), *Gaussian processes for the prediction of molecular Environmental, Health and Safety (EHS) properties*, OVGU.
+* **2021** Anahita Iravanizad (now PhD student at MPI), *Enriching Graph Neural Network Input via Random Walks on Graphs*, TU-Chemnitz.
+* **2022** Rahul Bankala, *Multi-objective optimization of an organic Rankine cycle system using Gaussian processes*, OVGU.
   
 
 Publications
@@ -59,11 +62,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
