@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters-level course"
 permalink: /teaching/2020-MLCE-exercises
 venue: "Otto von Guericke University"
-date: 2020
+date: 2020-04-20
 location: "Magdeburg, Germany"
 ---
 
