@@ -18,23 +18,23 @@ Education
 Research experience
 ======
 * **Doctoral researcher** --- (Nov 2019 - present)
-  * Max Planck Institute for Dynamics of Complex Technical System, Germany -- In group of [Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/2316)
+  * *Max Planck Institute for Dynamics of Complex Technical System, Germany* -- In group of [Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/2316)
   * GNNs for molecular and mixture property prediction. ML for process optimization. 
 
 * **Research intern** --- (May 2018 - Jul 2018)
-  * The University of Manchester/Imperial College London, UK -- In group of [Antonio del Rio Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona) and [Dongda Zhang](https://www.research.manchester.ac.uk/portal/dongda.zhang.html)
+  * *The University of Manchester/Imperial College London, UK* -- In group of [Antonio del Rio Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona) and [Dongda Zhang](https://www.research.manchester.ac.uk/portal/dongda.zhang.html)
   * Coded several stochastic optimization algorithms in Python
 
 * **Research assistant** --- (Jun 2017 - Sep 2017)
-  * McMaster University, Canada -- In group of [Thomas A. Adams II](https://www.eng.mcmaster.ca/people/faculty/thomas-adams)
+  * *McMaster University, Canada* -- In group of [Thomas A. Adams II](https://www.eng.mcmaster.ca/people/faculty/thomas-adams)
   * Studied semi-continous distillation systems using Aspen Plus
 
 * **Research assistant** --- (Feb 2017 - Jun 2017)
-  * University of California - Riverside, USA -- In group of [Haizhou Liu](https://profiles.ucr.edu/app/home/profile/haizhou)
+  * *University of California - Riverside, USA* -- In group of [Haizhou Liu](https://profiles.ucr.edu/app/home/profile/haizhou)
   * Light dispersion experiments for antiscalants analysis
 
 * **Research intern** --- (Feb 2017 - Jun 2017)
-  * University of Maryland, USA -- In group of [Jeffery B. Klauda](https://chbe.umd.edu/clark/faculty/324/Jeffery-Klauda)
+  * *University of Maryland, USA* -- In group of [Jeffery B. Klauda](https://chbe.umd.edu/clark/faculty/324/Jeffery-Klauda)
   * Molecular dynamics using NAMD and VMD
 
 Work experience
