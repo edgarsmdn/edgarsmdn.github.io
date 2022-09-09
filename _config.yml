@@ -184,7 +184,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  recent_talks:
+  talks:
     output: true
     permalink: /:collection/:path/
   
@@ -240,7 +240,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: recent_talks
+      type: talks
     values:
       layout: talk
       author_profile: true
