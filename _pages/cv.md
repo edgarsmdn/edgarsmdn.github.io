@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. *Chemical Engineering*, UNAM, **2018**
+* M.Sc. *Advanced Chemical Engineering with Process Systems Engineering*, Imperial College London, **2019**
+* Ph.D *Process Systems Engineering*, MPI-Magdeburg and Otto von Guericke University, **2024 (expected)**
+
+Research experience
+======
+* **Doctoral researcher** --- (Nov 2019 - present)
+  * Max Planck Institute for Dynamics of Complex Technical System, Germany
+  * Duties: GNNs for molecular and mixture property prediction. ML for process optimization.
+  * Supervisor: Kai Sundmacher
+
+* **Research associate** --- (Nov 2019 - present)
+  * Otto-von-Guericke-University, Germany
+  * Duties: Lecturer and TA in MSc-level courses
+
+* **Research intern** --- (May 2018 - Jul 2018)
+  * The University of Manchester/Imperial College London, UK
+  * Duties: Coded several stochastic optimization algorithms in Python
+  * Supervisor: Antonio del Rio Chanona and Dongda Zhang
+
+* **Research assistant** --- (Jun 2017 - Sep 2017)
+  * McMaster University, Canada
+  * Duties: Studied semi-continous distillation systems using Aspen Plus
+  * Supervisor: Thomas A. Adams II
+
+* **Research assistant** --- (Feb 2017 - Jun 2017)
+  * University of California - Riverside, USA
+  * Duties: Light dispersion experiments for antiscalants analysis 
+  * Supervisor: Haizhou Liu
+
+* **Research intern** --- (Feb 2017 - Jun 2017)
+  * University of Maryland, USA
+  * Duties: Molecular dynamics using NAMD and VMD 
+  * Supervisor: Jeffery B. Klauda
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Electricity Market Analyst** --- (Nov 2017 - Feb 2018)
+  * Bravos Energia, Mexico
+  * Duties: Developed a Mexican electricity tariffs model for forecasting
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +73,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Executive Board member** --- (Dec 2021 - present)
+  * [RIIAA](https://www.riiaa.org/), LATAM
+  * Duties: Strategic management of RIIAA and Summer school organization
+
+* **Chair** --- (Sep 2020 - Nov 2021)
+  * [RIIAA](https://www.riiaa.org/), LATAM
+  * Duties: Leader of the Summer school organization team
+
+* **Organizing member** --- (Dec 2019 - Sep 2020)
+  * [RIIAA](https://www.riiaa.org/), LATAM
+  * Duties: Summer school organization
