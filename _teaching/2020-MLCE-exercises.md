@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning in Chemical Engineering"
+title: "Machine Learning in Chemical Engineering (tutorials)"
 collection: teaching
 type: "Masters-level course"
 permalink: /teaching/2020-MLCE-exercises
