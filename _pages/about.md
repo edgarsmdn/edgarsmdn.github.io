@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Doctoral researcher at the Max Planck Institute for Dynamics of Complex Technical Systems in the [Process Systems Engineering group](https://www.mpi-magdeburg.mpg.de/pse) led by Prof. Kai Sundmacher. Here, I mainly investigate how Graph Neural Networks can help us create better models for phase equilibria of mixtures. Also, I investigate the use of Graph Neural Networks for thermophysical and environmental molecular property prediction and the use of machine learning methods for process optimization. The overall goal of this is to develop more sustainable separation processes. I received my M.Sc. in Advanced Chemical Engineering with Process Systems Engineering from Imperial College London in August 2019, and my B.Eng. in Chemical Engineering from UNAM in June 2018.
+I am currently a Doctoral researcher at the Max Planck Institute for Dynamics of Complex Technical Systems in the [Process Systems Engineering group](https://www.mpi-magdeburg.mpg.de/pse) led by Prof. Kai Sundmacher. Here, I mainly investigate how Graph Neural Networks can help us create better models for phase equilibria of mixtures. Also, I research the use of Graph Neural Networks for thermophysical and environmental molecular property prediction and the application of machine learning methods for process optimization. The overall goal of this is to develop more sustainable separation processes. I received my M.Sc. in Advanced Chemical Engineering with Process Systems Engineering from Imperial College London in August 2019, and my B.Eng. in Chemical Engineering from UNAM in June 2018.
 
 I can be reached at sanchez [at] mpi-magdeburg [dot] mpg [dot] de.
 
