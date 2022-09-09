@@ -12,4 +12,3 @@ citation: 'Madabhushi, P.B., Medina, E.I.S. and Adams II, T.A., 2018. Understand
 
 In this paper we study the effect of the initial state of a ternary semi-continous distillation system on its periodic orbit.
 
-Recommended citation: Madabhushi, P.B., Medina, E.I.S. and Adams II, T.A., 2018. Understanding the dynamic behaviour of semicontinuous distillation. In Computer Aided Chemical Engineering (Vol. 43, pp. 845-850). Elsevier.
