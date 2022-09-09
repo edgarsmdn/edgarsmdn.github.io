@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters-level course"
 permalink: /teaching/2021-MLCE-lecture
 venue: "Otto von Guericke University"
-date: 2021
+date: 2021-04-20
 location: "Magdeburg, Germany"
 ---
 
