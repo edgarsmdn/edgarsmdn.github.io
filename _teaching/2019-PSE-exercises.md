@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters-level course"
 permalink: /teaching/2019-PSE-exercises
 venue: "Otto von Guericke University"
-date: 2019
+date: 2019-09-21
 location: "Magdeburg, Germany"
 ---
 
