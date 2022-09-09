@@ -1,5 +1,5 @@
 ---
-title: "Process Systems Engineering"
+title: "Process Systems Engineering (tutorials)"
 collection: teaching
 type: "Masters-level course"
 permalink: /teaching/2019-PSE-exercises
