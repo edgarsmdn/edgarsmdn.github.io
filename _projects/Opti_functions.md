@@ -1,6 +1,9 @@
 ---
 title: "Collection of functions to test optimization algorithms"
-excerpt: "A collection of continous functions (coded in Python) with known minimum to test optimization algorithms. <br/><img src='../images/opti_functions.PNG'>"
+excerpt: "A collection of continous functions (coded in Python) with known minimum to test optimization algorithms. 
+<br/><img src='../images/opti_functions.PNG'
+          width="300" 
+          height="200">"
 collection: projects
 ---
 
