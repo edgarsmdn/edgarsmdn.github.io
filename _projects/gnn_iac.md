@@ -10,7 +10,7 @@ date: 2021-11-25
 
 <img src='../images/GNN_IAC_logo.png' width='350'>
 
-A GNN model that predicts isothermal infinite dilution activity coefficients. The [code](https://github.com/edgarsmdn/GNN_IAC) contains the training routines and the experiments presented in the paper [Graph Neural Networks for the prediction of infinite dilution activity coefficients]([https://pubs.rsc.org/en/content/articlelanding/2022/dd/d1dd00037c#!divAbstract](https://pubs.rsc.org/en/content/articlelanding/2022/DD/D1DD00037C)).
+A GNN model that predicts isothermal infinite dilution activity coefficients. The [code](https://github.com/edgarsmdn/GNN_IAC) contains the training routines and the experiments presented in the paper [Graph Neural Networks for the prediction of infinite dilution activity coefficients](https://pubs.rsc.org/en/content/articlelanding/2022/DD/D1DD00037C).
 
 To cite this work:
 
