@@ -5,7 +5,6 @@ excerpt: "A collection of continous functions (coded in Python) with known minim
 <img src='images/opti_functions.PNG' width='250'>
 "
 collection: projects
-date: 2018-01-01
 ---
 
 <img src='../images/opti_functions.PNG' width='350'>
