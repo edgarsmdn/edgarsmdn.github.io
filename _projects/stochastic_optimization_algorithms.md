@@ -1,13 +1,13 @@
 ---
 title: "Stochastic optimization algorithms"
 excerpt: "Several stochastic optimization methods (coded in Python) for derivative-free optimization of functions of n-dimensions. 
-<br/>
-<img src='https://github.com/edgarsmdn/PSO/blob/master/PSO_1.gif' width='300'> 
+<br/> 
+<img src='../images/PSO_1.gif' width='300'>
 "
 collection: projects
 ---
 
-<img src='https://github.com/edgarsmdn/PSO/blob/master/PSO_1.gif' width='300'>
+<img src='../images/PSO_1.gif' width='300'>
 
 Several stochastic optimization methods (coded in Python) for derivative-free optimization of functions of n-dimensions.
 The specific algorithms are:
