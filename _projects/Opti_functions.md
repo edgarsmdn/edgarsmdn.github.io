@@ -7,9 +7,7 @@ excerpt: "A collection of continous functions (coded in Python) with known minim
 collection: projects
 ---
 
-<p align='center'>
-<img src='../images/opti_functions.PNG' width='300'> 
-</p>
+<img src='../images/opti_functions.PNG' width='300'>
 
 A collection of continous functions ([coded in Python](https://github.com/edgarsmdn/OptiFunctions)) with known minimum to test optimization algorithms. They have been grouped into 6 major classes:
 * Plane-shaped
