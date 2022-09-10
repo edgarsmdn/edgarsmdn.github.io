@@ -2,7 +2,7 @@
 title: "Stochastic optimization algorithms"
 excerpt: "Several stochastic optimization methods (coded in Python) for derivative-free optimization of functions of n-dimensions. 
 <br/> 
-<img src='images/PSO_1.gif' width='200'>
+<img src='images/PSO_1.gif' width='250'>
 "
 collection: projects
 ---
