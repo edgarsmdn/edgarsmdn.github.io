@@ -3,9 +3,9 @@ title: "Collection of functions to test optimization algorithms"
 excerpt: "A collection of continous functions (coded in Python) with known minimum to test optimization algorithms. 
 <br/>
 <img src='images/opti_functions.PNG' width='250'>
-date: 2018-08-01
 "
 collection: projects
+date: 2018-08-01
 ---
 
 <img src='../images/opti_functions.PNG' width='350'>
