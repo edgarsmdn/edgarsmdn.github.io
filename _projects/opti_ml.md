@@ -1,6 +1,6 @@
 ---
 title: "Optimization algorithms used in ML"
-excerpt: "A pedagogical implementation (as .ipnb) of optimization algorithms used to trained ML models. 
+excerpt: "A pedagogical implementation (as .ipynb) of optimization algorithms used to trained ML models. 
 "
 collection: projects
 date: 2020-06-01
