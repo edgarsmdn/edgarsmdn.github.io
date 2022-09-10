@@ -50,7 +50,7 @@ M.Sc. Theses supervised
 * **2021** Viswa Sunkavalli (now Research assistant at BAM), *Graph Neural Networks for the prediction of environmental indicators of molecules*, OVGU.
 * **2021** Manoj Mangipudi (now PhD student at KIT), *Gaussian processes for the prediction of molecular Environmental, Health and Safety (EHS) properties*, OVGU.
 * **2021** Anahita Iravanizad (now PhD student at MPI), *Enriching Graph Neural Network Input via Random Walks on Graphs*, TU-Chemnitz.
-* **2022** Rahul Bankala, *Multi-objective optimization of an organic Rankine cycle system using Gaussian processes*, OVGU.
+* **2022** Rahul Bankala (now project manager at AKKA Technologies), *Multi-objective optimization of an organic Rankine cycle system using Gaussian processes*, OVGU.
   
 
 Publications
