@@ -7,7 +7,7 @@ excerpt: "Several stochastic optimization methods (coded in Python) for derivati
 collection: projects
 ---
 
-<img src='images/PSO_1.gif' width='500'>
+<img src='../images/PSO_1.gif' width='350'>
 
 Several stochastic optimization methods (coded in Python) for derivative-free optimization of functions of n-dimensions.
 The specific algorithms are:
