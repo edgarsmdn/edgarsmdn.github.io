@@ -5,6 +5,7 @@ excerpt: "Several stochastic optimization methods (coded in Python) for derivati
 <img src='images/PSO_1.gif' width='250'>
 "
 collection: projects
+date: 2018-08-01
 ---
 
 <img src='../images/PSO_1.gif' width='350'>
