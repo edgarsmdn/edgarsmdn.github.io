@@ -29,13 +29,13 @@ Research experience
 
 * **Research assistant** --- (Jun 2017 - Sep 2017)
   * *McMaster University, Canada* -- In group of [Thomas A. Adams II](https://www.eng.mcmaster.ca/people/faculty/thomas-adams)
-  * Studied semi-continous distillation systems using Aspen Plus
+  * Studied semi-continuous distillation systems using Aspen Plus
 
 * **Research assistant** --- (Feb 2017 - Jun 2017)
   * *University of California - Riverside, USA* -- In group of [Haizhou Liu](https://profiles.ucr.edu/app/home/profile/haizhou)
   * Light dispersion experiments for antiscalants analysis
 
-* **Research intern** --- (Feb 2017 - Jun 2017)
+* **Research intern** --- (Jun 2016 - Aug 2016)
   * *University of Maryland, USA* -- In group of [Jeffery B. Klauda](https://chbe.umd.edu/clark/faculty/324/Jeffery-Klauda)
   * Molecular dynamics using NAMD and VMD
 
@@ -43,7 +43,7 @@ Work experience
 ======
 * **Electricity Market Analyst** --- (Nov 2017 - Feb 2018)
   * Bravos Energia, Mexico
-  * Duties: Developed a Mexican electricity tariffs model for forecasting
+  * Developed a Mexican electricity tariffs model for forecasting
 
 M.Sc. Theses supervised
 ======
