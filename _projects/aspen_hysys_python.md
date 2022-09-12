@@ -10,4 +10,4 @@ date: 2021-02-18
 
 <img src='../images/HYSYS_Python.png' width='350'>
 
-An Aspen HYSYS-Python connection using spreadsheets
+An Aspen HYSYS-Python connection using spreadsheets ([code here](https://github.com/edgarsmdn/Aspen_HYSYS_Python)).
