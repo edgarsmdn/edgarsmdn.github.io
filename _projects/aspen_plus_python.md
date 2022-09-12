@@ -10,4 +10,4 @@ date: 2021-02-18
 
 <img src='../images/Aspen_plus_python.png' width='350'>
 
-An Aspen Plus-Python connection using object paths.
+An Aspen Plus-Python connection using object paths ([code here](https://github.com/edgarsmdn/Aspen_Plus_Python)).
