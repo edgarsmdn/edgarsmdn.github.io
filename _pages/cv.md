@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also see my CV as pdf [here](https://drive.google.com/file/d/1EXrkrE20Sw1A9TZ3QOuYWez-YT43DLQq/view?usp=sharing).
+
 ----------------------------------------------------------------------------------------------------------------
 
 Education
