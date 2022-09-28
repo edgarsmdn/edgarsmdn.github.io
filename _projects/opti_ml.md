@@ -7,7 +7,7 @@ date: 2020-06-01
 ---
 
 
-A [pedagogical implementation](https://github.com/edgarsmdn/Optimization_CPSE_2020) of the following optimization algorithms used to trained ML models:
+A [pedagogical implementation](https://github.com/edgarsmdn/OptML) of the following optimization algorithms used to trained ML models:
 * Gradient descent
 * Steepest descent
 * Gradient descent with momentum
