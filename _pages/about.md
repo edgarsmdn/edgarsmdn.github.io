@@ -13,10 +13,11 @@ I am currently a Doctoral researcher at the Max Planck Institute for Dynamics of
 I can be reached at sanchez [at] mpi-magdeburg [dot] mpg [dot] de.
 
 # News
+* *15-11-2022* - I presented a poster on the AIChE Annual Meeting 2022 regarding hybrid GNNs for predicting infinite dilution activity coefficients.
 * *30-08-2022* - I gave a talk on the 13th IMPRS workshop in Wernigerode, Germany regarding how to use GNNs for predicting infinite dilution activity coefficients. 
 * *13-06-2022* - Our recent work on GNNs for the prediction of infinite dilution activity coefficients was [featured](https://pubs.rsc.org/en/content/articlepdf/2022/dd/d2dd90010f?page=search) on the front cover of Digital Discovery!
 * *23-02-2022* - Our paper on Graph Neural Networks for the prediction of infinite dilution activity coefficients was accepted at Digital Discovery. Check out the paper [here](https://doi.org/10.1039/D1DD00037C).
 
-Last updated *09-09-2022*.
+Last updated *28-11-2022*.
 
 
