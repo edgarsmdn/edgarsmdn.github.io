@@ -14,7 +14,7 @@ I can be reached at sanchez [at] mpi-magdeburg [dot] mpg [dot] de.
 
 # News
 * *12-05-2023* - I gave a talk regarding hybrid GNNs at the meeting of the DECHEMA expert group "Model-based process development and optimization" at Frankfurt, Germany.
-* *02-05-2023* - Our work on the [Gibbs-Helmholtz Graph Neural Network](DOI	https://doi.org/10.1039/D2DD00142J) was published in Digital Discovery!
+* *02-05-2023* - Our work on the [Gibbs-Helmholtz Graph Neural Network](https://doi.org/10.1039/D2DD00142J) was published in Digital Discovery!
 * *25-04-2023* - My Masters student Kunchapu successfully defended his thesis on GNNs for prediction of polymer solutions!
 * *13-03-2023* - I presented a poster on the 14th IMPRS ProEng workshop regarding the prediction of activity coefficients at infinite dilution using hybrid GNNs in Naumburg, Germany.
 * *15-11-2022* - I presented a poster on the AIChE Annual Meeting 2022 regarding hybrid GNNs for predicting infinite dilution activity coefficients.
