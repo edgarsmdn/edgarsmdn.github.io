@@ -49,6 +49,8 @@ Work experience
 
 M.Sc. Theses supervised
 ======
+* **2023** Christoph Griehl, *Phosphine ligand selection for homogeneous catalysis applications embedding Machine Learning methods*, OVGU.
+* **2023** Sreekanth Kunchapu, *Prediction of Infinite Dilution Activity Coefficients in Polymer Solutions Using Graph Neural Networks*, OVGU.
 * **2021** Viswa Sunkavalli (now Research assistant at BAM), *Graph Neural Networks for the prediction of environmental indicators of molecules*, OVGU.
 * **2021** Manoj Mangipudi (now PhD student at KIT), *Gaussian processes for the prediction of molecular Environmental, Health and Safety (EHS) properties*, OVGU.
 * **2021** Anahita Iravanizad (now PhD student at MPI), *Enriching Graph Neural Network Input via Random Walks on Graphs*, TU-Chemnitz.
@@ -70,7 +72,7 @@ Teaching
   
 Service and leadership
 ======
-* **Executive Board member** --- (Dec 2021 - present)
+* **Executive Board member** --- (Dec 2021 - Oct 2022)
   * [RIIAA](https://www.riiaa.org/), LATAM
   * Duties: Strategic management of RIIAA and Summer school organization
 
