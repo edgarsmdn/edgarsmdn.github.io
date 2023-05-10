@@ -8,7 +8,7 @@ collection: projects
 date: 2023-05-02
 ---
 
-<img src='../images/GNN_IAC_logo.png' width='350'>
+<img src='../images/TOC.png' width='350'>
 
 A hybrid GNN model that predicts infinite dilution activity coefficients at varying temperatures. The [code](https://github.com/edgarsmdn/GH-GNN) contains the training routines and the experiments presented in the paper [Gibbs–Helmholtz graph neural network: capturing the temperature dependency of activity coefficients at infinite dilution](DOI	https://doi.org/10.1039/D2DD00142J).
 
