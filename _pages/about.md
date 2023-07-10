@@ -13,7 +13,7 @@ I am currently a Doctoral researcher at the Max Planck Institute for Dynamics of
 I can be reached at sanchez [at] mpi-magdeburg [dot] mpg [dot] de.
 
 # News
-* *30-05-2023* - I attended [PASI 2023](https://www.pasi2023.org/home) at Buenos Aires, Argetina.
+* *30-05-2023* - I attended [PASI 2023](https://www.pasi2023.org/home) at Buenos Aires, Argentina.
 * *12-05-2023* - I gave a talk regarding hybrid GNNs at the meeting of the DECHEMA expert group "Model-based process development and optimization" at Frankfurt, Germany.
 * *02-05-2023* - Our work on the [Gibbs-Helmholtz Graph Neural Network](https://doi.org/10.1039/D2DD00142J) was published in Digital Discovery!
 * *25-04-2023* - My Masters student Kunchapu successfully defended his thesis on GNNs for prediction of polymer solutions!
