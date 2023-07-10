@@ -1,0 +1,11 @@
+---
+title: "An introductory course of machine learning for chemical engineering students: a prototype"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-06-05-talk1
+venue: "11th World Congress of Chemical Engineering"
+date: 2023-06-05
+location: "Buenos Aires, Argentina"
+---
+
+I present our work on the JupyterBook [Machine Learning in Chemical Engineering](https://edgarsmdn.github.io/MLCE_book/intro.html)".
