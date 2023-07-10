@@ -10,7 +10,7 @@ date: 2023-06-10
 
 <img src='../images/logo.png' width='350'>
 
-A JupyterBook for the hands-on part of a Machine Learning in Chemical Engineering introductory course.
+A JupyterBook for the hands-on part of a [Machine Learning in Chemical Engineering](https://edgarsmdn.github.io/MLCE_book/intro.html) introductory course.
 
 To cite this work:
 
