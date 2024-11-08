@@ -9,18 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- 
 You can also see my CV as pdf [here](https://drive.google.com/file/d/1EXrkrE20Sw1A9TZ3QOuYWez-YT43DLQq/view?usp=sharing).
+-->
 
 ----------------------------------------------------------------------------------------------------------------
 
 Education
 ======
-* B.Eng. *Chemical Engineering*, UNAM, **2018**
-* M.Sc. *Advanced Chemical Engineering with Process Systems Engineering*, Imperial College London, **2019**
 * Ph.D *Process Systems Engineering*, MPI-Magdeburg and Otto von Guericke University, **2024 (expected)**
+* M.Sc. *Advanced Chemical Engineering with Process Systems Engineering*, Imperial College London, **2019**
+* B.Eng. *Chemical Engineering*, UNAM, **2018**
 
 Research experience
 ======
+* **Visiting researcher** --- (Sep 2023 - Nov 2023)
+  * *Carnegie Mellon University, USA* -- In group of [Gabe Gomes](https://gomesgroup.andrew.cmu.edu/index.html)
+  * AI for chemistry. Training GNNs on large molecular datasets. Automatic literature data retrieval. Embedding thermodynamics into GNNs.
+
 * **Doctoral researcher** --- (Nov 2019 - present)
   * *Max Planck Institute for Dynamics of Complex Technical System, Germany* -- In group of [Kai Sundmacher](https://www.mpi-magdeburg.mpg.de/person/24754/2316)
   * GNNs for molecular and mixture property prediction. ML for process optimization. 
@@ -59,10 +65,12 @@ M.Sc. Theses supervised
 
 Publications
 ======
+<!-- 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+See my <a href="https://scholar.google.com/citations?user=FRqGB_QAAAAJ&hl=en">my Google Scholar profile</a>.
   
 Teaching
 ======
@@ -72,6 +80,11 @@ Teaching
   
 Service and leadership
 ======
+* **Mentor** --- (Sep 2023 - Mar 2024)
+  * Process Systems Engineering in Mexico, Mexico
+  * Duties: mentorship and supervision of a PhD student as part of the workshop mentorship program.
+  * The work lead to [this publication](https://doi.org/10.1016/j.compchemeng.2024.108750).
+
 * **Executive Board member** --- (Dec 2021 - Oct 2022)
   * [RIIAA](https://www.riiaa.org/), LATAM
   * Duties: Strategic management of RIIAA and Summer school organization
