@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters-level course"
 permalink: /teaching/MLCE-lecture
 venue: "Otto von Guericke University"
-date: 
+date: 2024-01-01
 location: "Magdeburg, Germany"
 ---
 
